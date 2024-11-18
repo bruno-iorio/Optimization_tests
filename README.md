@@ -1,1 +1,1 @@
-This repo will serve just to save some practice examples for optimization algorithms
+This repo will serve just to save some practice examples for convex optimization algorithms
